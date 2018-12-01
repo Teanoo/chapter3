@@ -11,7 +11,7 @@ response.sendRedirect("index.action");
 %>
 </head>
 <body>
-hello
+hello哦哦
 
 </body>
 </html>
