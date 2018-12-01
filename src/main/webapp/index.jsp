@@ -11,6 +11,7 @@ response.sendRedirect("index.action");
 %>
 </head>
 <body>
+hello
 
 </body>
 </html>
