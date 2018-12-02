@@ -13,5 +13,7 @@ response.sendRedirect("index.action");
 <body>
 hello哦哦
 
+the new test
+
 </body>
 </html>
